@@ -10,6 +10,12 @@ Here is where I post useful information on how to use Google Chrome Developer To
 - [Google Docs](https://developers.google.com/web/tools/chrome-devtools/)
 - [Jank Free](http://jankfree.org/)
 
+#### SHORTCUT COMMANDS
+
+`Cmd + o` is shortcut to open file from browser
+`Cmd + shift + c / Cmd + shift + i` = open inspect via Chrome
+`Cmd + ctrl + space` = emojis
+
 #### NOTES
 
 - Can black box scripts to stop them from running

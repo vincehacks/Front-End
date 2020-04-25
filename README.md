@@ -18,20 +18,34 @@ Here is where I post useful information for doing Front-End Development
 - [Page Speed](https://developers.google.com/speed/pagespeed/)
 - [Paint Flashing Tool](https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool)
 
+#### ACRONYMS
+
+- ES5/ES6 = ECMAScript
+
+| Acronym   | Meaning                               |
+| --------- | ------------------------------------- |
+| ES5/ES6   | ECMAScript                            |
+| B.E.M     | Block Element Modifier                |
+| S.O.L.I.D | Single Responsibility Principle       |
+| TCP       | Transmission Control Protocol         |
+| IP        | Internet Protocol                     |
+| DNS       | Domain Name Server                    |
+| HTTP      | Hyper Text Transfer Protocol          |
+| SEO       | Search Engine Optimization            |
+| DOM       | Document Object Model                 |
+| URI       | Uniform Resource Identifier           |
+| URL       | Uniform Resource Locator              |
+| URN       | Uniform Resource Name                 |
+| MIME      | Multipurpose Internet Mail Extensions |
+| API       | Application Programming Interfaces    |
+
 #### CREATE REACT APP
 
 - [Create React App Medium Article](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc)
 
-#### SHORTCUT COMMANDS
-
-Cmd + o is shortcut to open file from browser
-Cmd + shift + c / Cmd + shift + i = open inspect via Chrome
-Cmd + ctrl + space = emojis
-
 #### MISC LINKS
 
 - [Learning Shell](explainshell.com)
-- [Learning Git](ohshitgit.com)
 
 #### HTML
 

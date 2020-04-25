@@ -6,12 +6,13 @@ Here is where I post useful information on how to use GIT
 
 GIT:
 [GIT REPO w/ Notes](https://github.com/nnja/advanced-git)
+[Learning Git](ohshitgit.com)
 
 #### NOTES
 
 - Set up a text editor to open if you don’t pass -m in commit
 
-```
+```bash
 git.io/config-editor
 git config --global core.editor atom —wait
 git config --global core.editor sublime -n -w
@@ -21,7 +22,7 @@ git config --global core.editor sublime -n -w
 
 1. Working Area
 2. The files that are also not in your staging area, not handled by git
-3. Also called “untracked files”
+3. Also called “un-tracked files”
 4. Staging Area
 5. Aka the index or cache
 6. This is how git knows what will change between the current commit and the next commit
@@ -84,3 +85,11 @@ git mv <file>
   - Git rebase master
   - This will change the HEAD to point to the master’s commit therefore sharing
     the same parent from master
+
+#### Git Flow
+
+1. Fetch & Merge changes from the remote
+2. Create a Branch to work on a feature
+3. Develop Feature & Commit work
+4. Fetch & Merge from the remote
+5. Push Branch to Remote for review
