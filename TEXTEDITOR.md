@@ -2,11 +2,7 @@
 
 Created by Vince Chang <br/>
 
-#### Extra
-
-- C.R.U.D = Create Read Write Delete
-- If a path has spaces in it, use quotes to wrap each path:
-  `mv “/Users/vincechang/Desktop/REST-API” /Users/vincechang/Documents`
+Everything I will need if I need to install VSCode again or Atom
 
 #### VSCode Keyboard Shortcuts & Notes
 

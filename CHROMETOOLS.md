@@ -26,7 +26,7 @@ Here is where I post useful information on how to use Google Chrome Developer To
   - `websitetest.org`
   - Lighthouse built into Chrome Dev Tools
   - [Progressive web app check list](https://developers.google.com/web/progressive-web-apps/checklist)
-- Common Audit Problems:
+- **Common Audit Problems**
   - Combine external CSS & JS
   - Enable Gzip Compression (do in node)
   - Compress images
@@ -34,7 +34,7 @@ Here is where I post useful information on how to use Google Chrome Developer To
   - Put CSS in document head
   - Dead code elimination (rule out code we aren’t using if we import ex, all of
     bootstrap but only use part of it)
-- Common Memory Leak Problems:
+- **Common Memory Leak Problems**
   - The accidental global
     - Need to set things to var, let or const, if you don’t this now lives on
       the global window
