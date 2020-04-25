@@ -2,13 +2,15 @@
 
 Created by Vince Chang </br>
 
+Here is where I post information on Big Data.
+
 #### HADOOP
 
 - [Hadoop Tutorial](https://www.youtube.com/watch?v=mafw2-CVYnA&t=713s)
 - Hadoop is an open source, Java-based programming framework that supports the
   processing and storage of extremely large data sets in a distributed computing
   environment.
-- Has enormous processing ower and the ability to handle virtually limitless
+- Has enormous processing power and the ability to handle virtually limitless
   concurrent tasks or jobs
 - Hadoop is not a type of DB, but rather a software ecosystem that allows
   parallel computing
@@ -27,7 +29,7 @@ Created by Vince Chang </br>
 #### SQOOP
 
 - Sqoop is a tool designed for efficiently transferring bulk data between
-  Hadoop and structured datastores such as relational databases
+  Hadoop and structured data stores such as relational databases
 
 #### HIVE
 

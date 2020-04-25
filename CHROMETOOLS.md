@@ -2,7 +2,7 @@
 
 Created by Vince Chang </br>
 
-Here is where I post useful information on how to use Google Chrome Developer Tools
+Here is where I post information on how to use Google Chrome Developer Tools
 
 #### CHROME DEV TOOLS
 
