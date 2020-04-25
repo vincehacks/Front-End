@@ -33,6 +33,47 @@ Here is where I post useful information found and learned over time
 | API       | Application Programming Interfaces    |
 | C.R.U.D   | Create Read Write Delete              |
 
+### PRINCIPLES
+
+#### B.E.M
+
+- B.E.M stands for Block Element Modifier
+- Standard naming convention for CSS class names
+- **Block**: The outermost parent element of the component is defined as a block
+- **Element**: Inside of the component may be one or more children called
+  elements
+- **Modifier**: Either a block or element may have a variation signified by a
+  modifier
+- Ex. [block]\_\_[element]--[Modifier]
+
+#### S.O.L.I.D PRINCIPLES OF OOP
+
+- Acronym for 5 design principles to make software more understandable, flexible
+  & maintainable
+
+1. **Single Responsibility Principle**
+   - A class should have only one single responsibility
+2. **Open/Closed Principle**
+   - Software Entities should be open for extension, but closed for
+     modification
+3. **Liskov Substitution Principle**
+   - Objects in a program should be replaceable w/ instances of their subtypes
+     without altering correctness of that program
+4. **Interface Segregation Principle**
+   - Many client specific interfaces are better than on general purpose
+     interface
+5. **Dependency Inversion Principle**
+   - One should depend upon abstractions, not concretions
+
+#### CLIENTS & SERVERS
+
+- **Clients**: Web users internet connected devices
+- Ex. Computer is connected to WiFi or phone is connected to network
+- **Servers**: Computers that store webpages, sites, apps
+- When a client device wants to connect to a webpage, a copy of the webpage is
+  downloaded from the server onto the client machine to be displayed in the
+  user's web browser
+
 #### EXTRA
 
 - If a path has spaces in it, use quotes to wrap each path:

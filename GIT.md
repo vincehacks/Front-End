@@ -93,3 +93,13 @@ git mv <file>
 3. Develop Feature & Commit work
 4. Fetch & Merge from the remote
 5. Push Branch to Remote for review
+
+#### USEFUL GIT COMMANDS
+
+| Command                              | Purpose                                                              |
+| ------------------------------------ | -------------------------------------------------------------------- |
+| `git log`                            | Shows history                                                        |
+| `git checkout HEAD filename`         | Discards changes in working directory                                |
+| `git reset HEAD filename`            | Un-stages file changes in the staging area                           |
+| `git reset commit-SHA`               | Resets to previous commit of your choice with SHA # found in git log |
+| `git commit --amend -- reset-author` | Fixes Identity for email                                             |
